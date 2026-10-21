@@ -11,6 +11,8 @@ This repository serves as a custom starter template for React projects using Vit
 
 ## How to Use This Template
 
+Requires Node.js 22.12 or newer (needed by Vite 8 and Vitest 5).
+
 To create a new project based on this template, follow these steps:
 
 ### Using `degit`
@@ -33,7 +35,7 @@ After installing the dependencies, you can start the development server by runni
 
 npm run dev
 
-This command starts the Vite development server. Open http://localhost:3000 to view your project in the browser.
+This command starts the Vite development server. Open http://localhost:5173 to view your project in the browser.
 
 ## Building for Production
 
